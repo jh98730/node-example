@@ -1,0 +1,32 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jh98730/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jh98730",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jh98730/node-example/issues"
+  },
+  "homepage": "https://github.com/jh98730/node-example",
+  "dependencies": {
+    "express": "^4.7.2",
+    "logfmt": "^1.1.2"
+  },
+  {
+    "engines": {
+      "node": "0.10.x"
+      }
+  }
+}
